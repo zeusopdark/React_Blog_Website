@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "September 17, 2023 2:54:41 AM",
+      "body": "This is my name put this in your brain.kjfgdsgfghjk"
+    },
+    {
+      "id": 2,
+      "title": "Ankit First Love",
+      "datetime": "September 17, 2023 3:57:45 PM",
+      "body": "There was once a chutiya.ANd what else you want to know lol."
+    }
+  ]
+}
